@@ -1,0 +1,12 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "ok, este es mi primer proyecto en react y tambien mi primer proyecto en github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
